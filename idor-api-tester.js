@@ -44,7 +44,7 @@
         <input id="at-csrf" placeholder="x-csrf-token value" style="width:100%; background:#111; color:#ccc; border:1px solid #333; border-radius:4px; padding:4px 8px; margin-bottom:6px" />
         <input id="at-cookie" placeholder="cookie value (optional)" style="width:100%; background:#111; color:#ccc; border:1px solid #333; border-radius:4px; padding:4px 8px; margin-bottom:8px" />
         <div style="margin-bottom:6px; font-size:10px; color:#666">BODY (JSON)</div>
-        <textarea id="at-body" placeholder='{"operationName": "GetUserCourses", "variables": {"userID": "40624"}}' style="width:100%; height:70px; background:#111; color:#ccc; border:1px solid #333; border-radius:4px; padding:4px 8px; resize:vertical; margin-bottom:8px"></textarea>
+        <textarea id="at-body" placeholder='{"operationName": "GetUserCourses", "variables": {"userID": "00000"}}' style="width:100%; height:70px; background:#111; color:#ccc; border:1px solid #333; border-radius:4px; padding:4px 8px; resize:vertical; margin-bottom:8px"></textarea>
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px">
             <div style="font-size:10px; color:#666">RESPONSE</div>
             <div id="at-status" style="font-size:10px"></div>
